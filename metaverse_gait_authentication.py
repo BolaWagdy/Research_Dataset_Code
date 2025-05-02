@@ -13,7 +13,7 @@ from sklearn.metrics import (
 )
 
 # Load dataset
-df = pd.read_csv("Research Dataset\\metaverse_gait_authentication_dataset.csv")
+df = pd.read_csv("metaverse_gait_authentication_dataset.csv")
 
 # Basic information
 print("Dataset Shape:", df.shape)
